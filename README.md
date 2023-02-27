@@ -1,4 +1,5 @@
 # Hi, I'm Luis Sanchez 👋
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
 I am a Full Stack Developer with experience in building web applications using HTML, Ruby, CSS, JavaScript, Python, and React. I am passionate about coding and love creating solutions to complex problems. 
 
