@@ -31,6 +31,10 @@ I am always looking to improve my skills and stay up-to-date with the latest tec
 ## 📫 Contact Me
 
 If you want to get in touch with me, feel free to send me an email at [luissanchezzamora23@gmail.com](mailto:luissanchezzamora23@gmail.com).
+</p>
+<p align="center">
+<a href="https://www.codewars.com/users/sanieni6" target="_blank"><img src="https://www.codewars.com/users/sanieni6/badges/micro"/></a>
+</p>
 
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanieni6)](https://github.com/anuraghazra/github-readme-stats)
 
