@@ -30,8 +30,15 @@ I am always looking to improve my skills and stay up-to-date with the latest tec
 
 ## 📫 Contact Me
 
-If you want to get in touch with me, feel free to send me an email at [luissanchezzamora23@gmail.com](mailto:luissanchezzamora23@gmail.com).
-</p>
+<a href="https://www.linkedin.com/in/luissanchezz3/" target="_blank" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=1ed760&amp;link=https://www.linkedin.com/in/luissanchezz3/"></a>
+<a target="_blank" href="mailto:luissanchezzamora23@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&amp;logo=Gmail&amp;logoColor=1ed760&amp;link=mailto:luissanchezzamora23@gmail.com">
+</a> 
+<a target="_blank"href="https://twitter.com/its_luis_sz23">
+  <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=1ed760">
+</a>
+
 <p align="center">
 <a href="https://www.codewars.com/users/sanieni6" target="_blank"><img src="https://www.codewars.com/users/sanieni6/badges/micro"/></a>
 </p>
