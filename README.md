@@ -1,3 +1,5 @@
+<img align='center' src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width="100%" height="30%">
+
 # Hi, I'm Luis Sanchez 👋
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
