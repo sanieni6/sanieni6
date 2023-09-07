@@ -8,15 +8,19 @@ Here are some technologies I work with:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-postgreSQL-333333?style=flat&logo=postgreSQL)
+![Ruby on Rails](https://img.shields.io/badge/-RubyonRails-333333?style=flat&logo=rubyonrails)
 
 ## 🔧 Technologies & Tools
 
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## 🌱 Currently Learning
 
