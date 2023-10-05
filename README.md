@@ -28,11 +28,11 @@ I am a Full Stack Developer with experience in building web applications using H
 
 I am always looking to improve my skills and stay up-to-date with the latest technologies. Currently, I am focusing on learning more about machine learning and data science.
 
-## 🎉 Fun Facts
+## 🎉 Facts about me
 
-- I love to watch movies and TV shows in my free time.
-- I enjoy playing video games and learning about game development.
-- I am an avid fan of stand-up comedy.
+- Beside to be a developer I'm a calisthenics instructor in my free time
+- I enjoy reading books. I'm currently reading The Dark Forest by Liu Cixin
+- I am an avid fan of stand-up comedy and dad jokes
 
 ## 📫 Contact Me
 
