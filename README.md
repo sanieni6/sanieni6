@@ -31,7 +31,7 @@ I'm diving into the world of Web3, with a focus on StarkNet and the Cairo progra
 ## 🎉 Facts about me
 
 - Community Builder: I'm actively building a calisthenics community in my country to inspire and help others transform themselves.
-- Avid Reader: Despite my reading challenges, I'm currently engrossed in [The player of games](https://a.co/d/5uGvVyy) and [The antichrist](https://a.co/d/6rXTZHI)
+- Avid Reader: Reading [The player of games](https://a.co/d/5uGvVyy) and [The antichrist](https://a.co/d/6rXTZHI)
 - Anime Enthusiast: Yes, I'm a big fan of anime!
 
 ## 📫 Contact Me
