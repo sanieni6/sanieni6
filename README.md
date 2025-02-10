@@ -31,7 +31,7 @@ I'm diving into the world of Web3, with a focus on StarkNet and the Cairo progra
 ## 🎉 Facts about me
 
 - Community Builder: I'm actively building a calisthenics community in my country to inspire and help others transform themselves.
-- Avid Reader: Reading [The player of games](https://a.co/d/5uGvVyy) and [The antichrist](https://a.co/d/6rXTZHI)
+- Avid Reader: Reading [liquid love](https://a.co/d/2oGwFvf) and [Rogue Protocol](https://a.co/d/9KXZyGh)
 - Anime Enthusiast: Yes, I'm a big fan of anime!
 
 ## 📫 Contact Me
@@ -40,9 +40,6 @@ I'm diving into the world of Web3, with a focus on StarkNet and the Cairo progra
   <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=1ed760&amp;link=https://www.linkedin.com/in/luissanchezz3/"></a>
 <a target="_blank" href="mailto:luissanchezzamora23@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&amp;logo=Gmail&amp;logoColor=1ed760&amp;link=mailto:luissanchezzamora23@gmail.com">
-</a> 
-<a target="_blank"href="https://twitter.com/its_luis_sz23">
-  <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=1ed760">
 </a>
 
 ## Tech Stack
